@@ -1,0 +1,8 @@
+sentiment analysis:
+	- vader sentiment score
+	- machine learning approch
+	- classification(optional):
+		- bug report
+		- feature request
+		- user experience
+		- rating
