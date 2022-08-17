@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Sep 10 20:26:54 2020
-
-@author: Raida
 """
 from dbconnect import *
 

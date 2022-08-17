@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Sep  8 20:52:29 2020
-
-@author: Raida
 """
 
 import MySQLdb
